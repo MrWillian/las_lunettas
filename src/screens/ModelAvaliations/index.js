@@ -26,18 +26,6 @@ export default function ModelAvaliations() {
                     </View>
                 )}
             />
-
-            {/* {avaliations.map(function(avaliation) {
-                return ( */}
-                    
-                    {/* // <View style={styles.fieldContainer}>
-                    //     <Text style={styles.fieldText}>Cliente:</Text>
-                    //     <Text style={styles.commentText}>{avaliation[0]}</Text>
-                    //     <Text style={styles.fieldText}>Avaliação:</Text>
-                    //     <Text style={styles.commentText}>{avaliation[1]}</Text>
-                    // </View> */}
-                {/* )
-            })} */}
         </View>
     );
 }
